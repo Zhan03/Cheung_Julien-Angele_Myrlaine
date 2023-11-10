@@ -34,6 +34,7 @@ Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
 
+<<<<<<< HEAD
 ## Joey Starr
 
 Putain, c'est en me disant "j'ai jamais demandé à t'avoir!"
@@ -66,3 +67,5 @@ Si tu veux pas qu'il glisse
 
 
 
+=======
+>>>>>>> 88b03267355ba27e5f98c78b0871944031f82784
