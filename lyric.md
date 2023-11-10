@@ -33,8 +33,6 @@ Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
-
-<<<<<<< HEAD
 ## Joey Starr
 
 Putain, c'est en me disant "j'ai jamais demandé à t'avoir!"
@@ -58,14 +56,11 @@ J'avais pas l'impression d'être plus coté qu'une caisse à l'argus
 Donc j'ai dû renoncer, trouver mes propres complices
 Mes partenaires de glisse, désolé si je m'immisce
 
-## Choeur
+## Choeur 
+
 Mais laisse pas traîner ton fils
 Si tu ne veux pas qu'il glisse
 Qu'il te ramène du vice
 Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
-
-
-=======
->>>>>>> 88b03267355ba27e5f98c78b0871944031f82784
